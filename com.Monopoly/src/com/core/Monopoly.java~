@@ -1,0 +1,19 @@
+package Core;
+import imports.ALQueue;
+import imports.Queue;
+
+public class Monopoly {
+	public Board board;
+	private Queue<Player> players;
+	
+	public Monopoly(int numPlayers){
+		board = new Board();
+		players = new ALQueue<Player>();
+	}
+	
+	public static void main(String[] args){
+		Monopoly monopoly = new Monopoly(4);
+		
+		
+	}
+}

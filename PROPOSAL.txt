@@ -1,0 +1,64 @@
+=========== APCS FINAL PROJECT PROPOSAL ===========
+
+
+
+Submit an outline of your final project plan, addressing each applicable prompt below.
+
+
+ONE GROUP MEMBER should email it to me as plaintext or word processing doc.
+Group Members:
+Bianca Ng, Cassandra Silano & Timotius Sitorus
+
+
+
+
+GENERAL IDEA
+
+
+REPLICATING AN EXISTING GAME?
+
+(If so, explain game mechanics and your added funcionality.)
+Yes. Monopoly.
+Will include: game board, players + banker (counters for $, etc), 2 dice (RNG), the Chance/Community cards for when landing on specific tiles, property (rent? mortgage? sell/buy, keeping track of who owns what and where it is).
+
+INCORPORATION OF APCS TOPICS
+( Give explanation of how you will make use of topics learned in this course in your project...)
+well, making new classes to use obviously uh
+-using awt/sheels/some form of pictures
+-swing
+-interfaces
+-Queues to make the chance and Community chest decks & Queue of Players
+-Arrays to make the board
+-ArrayList to make a lot of stuff
+-Extending classes to subclasses
+
+
+
+PROOF OF PRINCIPLE
+(You should perform some basic tests to ensure your idea is workable. What are these tests and will you be performing them? ...or you already performed them; how did they turn out?)
+- printing out the board (yes, we will be doing this)
+- moving on the board -> updating it after each move
+
+MAJOR COMPONENTS
+-game board: each tile has some kind of action the player must act out if it lands on that space.
+-graphics. board design? players? dice?
+-bank, property systems (how does the property system work - is there rent? etc)
+
+DIVISION OF LABOR / TASK DELEGATION
+
+(Possibly related to Major Components section. Can each major component be handled by a single team member? Etc...)
+-learning to use awt should be for everyone.
+- Timo -> the GUI stuff
+- Cassandra -> cards, decks, players, 
+- Bianca -> txt files manager
+
+Everyone-> underlying implementation of the game, board, location, property, etc
+
+
+ROUGH TIMELINE
+- create Locations, Properties, Railroads, etc b/c they ,make up the board
+- make the board -> Array of Locations
+- make the Cards 
+- make the chance & Community Chest -> Queue of Cards
+- make player
+- make the graphics

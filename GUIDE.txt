@@ -1,0 +1,58 @@
+﻿Cassandra Silano
+Timotius Sitorus
+Bianca Ng
+
+
+		JAVAPOLY
+	Javapoly is exactly like Monopoly, but a little simpler. In Monopoly, players often have interactions that don't follow any strict form of rules. We eliminated these gray areas, which often result in bargaining and bartering. We also did away with houses and hotels that Monopoly players can put on their properties. Other than that, Javapoly and Monopoly follow the same principles: buy as much property as possible to bankrupt the other players and win.
+
+STARTING BASIC RULES:
+The Game must be played by 2-4 Players 
+The order at which people go is decided by what player they want to be 	(ie. Player 1, player 2, player 3, player 4)
+The Game begins when you press New Game
+Everyone Starts With $1500 
+There are 15 round of moves before a winner is declared
+The Winner is the one with the most money by the end
+If at any time you run our of money, You Lose
+At any time during the game you can click on a property to see its name, 	price, rent, and the name of the owner. 
+
+NAVIGATING THE BOARD:
+All Players start at GO and move Counter-ClockWise
+The Screen will prompt you if its Your turn
+After prompted that it is your turn, you roll two dice and their sum is 	the result which is shown on the screen.
+Your OnScreen piece will then move the amount of spaces as indicated by 	your roll
+Just like real monopoly, if you roll a double, you get to roll again. But 	be warned, three doubles and you go to Jail. 
+After finishing your turn, click the Next Turn Button to start the next 	player’s turn 
+
+PROPERTY:
+While navigating the board you will come across Properties, which can be 	bought by players. The price to buy each property is determined by 	the Property. To buy property, you must be on the property and have 	the price of the property available to you. 
+However, if a property is bought by another 	player and you happen to land on said property, you have to pay the owner rent as determined by the property. To pay rent you MUST press the button that says Pay Rent. 
+
+Note: Normally in Monopoly you are also able to mortgage properties. For the sake of simplicity we decided to leave it out. 
+
+There are 3 different kinds of Property: Estates, Railroad, and Utilities
+In this version of the game, estates are just properties, however in 	other version houses can be built on them. We decided not to do 	this for simplicity. 
+Railroads are properties. There are four of them and they exist on each 	side of the board. 
+There are two utilities water works and electric company. 
+
+Non-Property:
+Chance & Community Chest
+There two decks of cards in the game: Chance and Community Chest. Each	consist of a series of cards that contain commands that will tell 	your 	piece to do different things.  
+You can draw a card from one of the decks by landing on its corresponding 	space and pressing the Draw button. The button can only be pressed 	successfully when the current player is on a space labeled Chance 	or Community Chest
+Located within each of the decks are “Get out of Jail free cards” which 	can be used to get out jail if you happen to end up within it. 
+
+JAIL
+A person may get into jail if they:
+	-land in the space labeled “go to jail”
+	-roll three consecutive doubles in a row
+	-picked up a chance/Community Chest card that tells you to go to 		jail. 
+
+When in jail you have 4 options:
+	-Use your get out of Jail Free Card
+	Note: if don’t have one and choose this option, your move is 	automatically skipped for the turn.
+- Try to roll a double, if you do you get set free. And move the distance that you roll, but if you do not roll again for getting the doubles. 
+- You can pay the $50 fine and be released immediately. 
+- You can wait. If you wait for more than three turns $50 is automatically deducted from your money. 
+
+
+
